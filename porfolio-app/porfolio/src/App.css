@@ -1,0 +1,34 @@
+
+#aboutme{
+  text-align: center;
+}
+#center{
+  text-align: center;
+  color: white;
+}
+body{
+  background-position: center center; 
+  background-image: url('./components/assets/marinaBackround.jpg ');
+}
+#textColor{
+color: white;
+text-indent: 20px;
+}
+.home{
+  background: rgba(141, 141, 141, 0.8);
+  border-radius: 25px;
+  padding: 10px;
+}
+.contact{
+  background: rgba(141, 141, 141, 0.8);
+  border-radius: 25px;
+  padding: 10px;
+}
+.porfolioLinks{
+  width: 900px; 
+  height: 400px;
+}
+.images{
+  width: 100%;
+  height: auto;
+}
